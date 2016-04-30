@@ -15,7 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    
+    NSLog(@"___________%s",__func__);
     NSLog(@"___________%s",__func__);
     NSLog(@"___________%s",__func__);
     [super viewDidLoad];
